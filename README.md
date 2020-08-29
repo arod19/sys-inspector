@@ -1,6 +1,6 @@
 # System Inspector
 
-Unix utility that inspects the system it runs on and creates a summarized report for the user.
+Unix utility written in C that inspects the system it runs on and creates a summarized report for the user.
 
 To compile and run:
 
